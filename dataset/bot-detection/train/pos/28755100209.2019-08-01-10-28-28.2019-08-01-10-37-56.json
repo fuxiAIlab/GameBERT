@@ -1,0 +1,469 @@
+[
+    {
+        "log_id": "400000",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:28:28"
+    },
+    {
+        "log_id": "400375",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:28:28"
+    },
+    {
+        "log_id": "400800",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:28:28"
+    },
+    {
+        "log_id": "400027",
+        "role_grade": "070",
+        "design_id": "16101518",
+        "timestamp": "2019-08-01 10:28:28"
+    },
+    {
+        "log_id": "400028",
+        "role_grade": "070",
+        "design_id": "16000088",
+        "timestamp": "2019-08-01 10:28:28"
+    },
+    {
+        "log_id": "400031",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:28:28"
+    },
+    {
+        "log_id": "400216",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:28:28"
+    },
+    {
+        "log_id": "400218",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:28:28"
+    },
+    {
+        "log_id": "400514",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:28:28"
+    },
+    {
+        "log_id": "400576",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:28:28"
+    },
+    {
+        "log_id": "400540",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:28:30"
+    },
+    {
+        "log_id": "400462",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:28:31"
+    },
+    {
+        "log_id": "400670",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:28:31"
+    },
+    {
+        "log_id": "400434",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:28:31"
+    },
+    {
+        "log_id": "400218",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:28:58"
+    },
+    {
+        "log_id": "400148",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:29:10"
+    },
+    {
+        "log_id": "400590",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:29:10"
+    },
+    {
+        "log_id": "400003",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:29:10"
+    },
+    {
+        "log_id": "400036",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:29:10"
+    },
+    {
+        "log_id": "400121",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:29:47"
+    },
+    {
+        "log_id": "400069",
+        "role_grade": "070",
+        "design_id": "21090005",
+        "timestamp": "2019-08-01 10:30:03"
+    },
+    {
+        "log_id": "400122",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:30:03"
+    },
+    {
+        "log_id": "400019",
+        "role_grade": "070",
+        "design_id": "21090005",
+        "timestamp": "2019-08-01 10:30:03"
+    },
+    {
+        "log_id": "400069",
+        "role_grade": "070",
+        "design_id": "21090005",
+        "timestamp": "2019-08-01 10:30:16"
+    },
+    {
+        "log_id": "400019",
+        "role_grade": "070",
+        "design_id": "21090005",
+        "timestamp": "2019-08-01 10:30:16"
+    },
+    {
+        "log_id": "400122",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:30:28"
+    },
+    {
+        "log_id": "400069",
+        "role_grade": "070",
+        "design_id": "21090005",
+        "timestamp": "2019-08-01 10:30:29"
+    },
+    {
+        "log_id": "400019",
+        "role_grade": "070",
+        "design_id": "21090005",
+        "timestamp": "2019-08-01 10:30:29"
+    },
+    {
+        "log_id": "400069",
+        "role_grade": "070",
+        "design_id": "21090005",
+        "timestamp": "2019-08-01 10:30:45"
+    },
+    {
+        "log_id": "400019",
+        "role_grade": "070",
+        "design_id": "21090005",
+        "timestamp": "2019-08-01 10:30:45"
+    },
+    {
+        "log_id": "400069",
+        "role_grade": "070",
+        "design_id": "21090005",
+        "timestamp": "2019-08-01 10:30:58"
+    },
+    {
+        "log_id": "400019",
+        "role_grade": "070",
+        "design_id": "21090005",
+        "timestamp": "2019-08-01 10:30:58"
+    },
+    {
+        "log_id": "400122",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:31:07"
+    },
+    {
+        "log_id": "400069",
+        "role_grade": "070",
+        "design_id": "21090005",
+        "timestamp": "2019-08-01 10:31:11"
+    },
+    {
+        "log_id": "400019",
+        "role_grade": "070",
+        "design_id": "21090005",
+        "timestamp": "2019-08-01 10:31:11"
+    },
+    {
+        "log_id": "400582",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:31:23"
+    },
+    {
+        "log_id": "400591",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:31:23"
+    },
+    {
+        "log_id": "400003",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:31:23"
+    },
+    {
+        "log_id": "400248",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:31:56"
+    },
+    {
+        "log_id": "400587",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:32:18"
+    },
+    {
+        "log_id": "400122",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:32:33"
+    },
+    {
+        "log_id": "400069",
+        "role_grade": "070",
+        "design_id": "21090005",
+        "timestamp": "2019-08-01 10:32:47"
+    },
+    {
+        "log_id": "400019",
+        "role_grade": "070",
+        "design_id": "21090005",
+        "timestamp": "2019-08-01 10:32:47"
+    },
+    {
+        "log_id": "400122",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:33:05"
+    },
+    {
+        "log_id": "400587",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:33:35"
+    },
+    {
+        "log_id": "400582",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:34:23"
+    },
+    {
+        "log_id": "400591",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:34:23"
+    },
+    {
+        "log_id": "400003",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:34:23"
+    },
+    {
+        "log_id": "400121",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:34:47"
+    },
+    {
+        "log_id": "400069",
+        "role_grade": "070",
+        "design_id": "21090005",
+        "timestamp": "2019-08-01 10:34:56"
+    },
+    {
+        "log_id": "400019",
+        "role_grade": "070",
+        "design_id": "21090005",
+        "timestamp": "2019-08-01 10:34:56"
+    },
+    {
+        "log_id": "400069",
+        "role_grade": "070",
+        "design_id": "21090005",
+        "timestamp": "2019-08-01 10:35:10"
+    },
+    {
+        "log_id": "400019",
+        "role_grade": "070",
+        "design_id": "21090005",
+        "timestamp": "2019-08-01 10:35:10"
+    },
+    {
+        "log_id": "400122",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:35:31"
+    },
+    {
+        "log_id": "400122",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:35:53"
+    },
+    {
+        "log_id": "400069",
+        "role_grade": "070",
+        "design_id": "21090005",
+        "timestamp": "2019-08-01 10:35:57"
+    },
+    {
+        "log_id": "400019",
+        "role_grade": "070",
+        "design_id": "21090005",
+        "timestamp": "2019-08-01 10:35:57"
+    },
+    {
+        "log_id": "400122",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:36:25"
+    },
+    {
+        "log_id": "400003",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:36:31"
+    },
+    {
+        "log_id": "400122",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:36:49"
+    },
+    {
+        "log_id": "400069",
+        "role_grade": "070",
+        "design_id": "21090005",
+        "timestamp": "2019-08-01 10:36:51"
+    },
+    {
+        "log_id": "400019",
+        "role_grade": "070",
+        "design_id": "21090005",
+        "timestamp": "2019-08-01 10:36:51"
+    },
+    {
+        "log_id": "400582",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:37:23"
+    },
+    {
+        "log_id": "400591",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:37:23"
+    },
+    {
+        "log_id": "400003",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:37:23"
+    },
+    {
+        "log_id": "400069",
+        "role_grade": "070",
+        "design_id": "21090005",
+        "timestamp": "2019-08-01 10:37:31"
+    },
+    {
+        "log_id": "400019",
+        "role_grade": "070",
+        "design_id": "21090005",
+        "timestamp": "2019-08-01 10:37:31"
+    },
+    {
+        "log_id": "400005",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:37:44"
+    },
+    {
+        "log_id": "400063",
+        "role_grade": "070",
+        "design_id": "21111247",
+        "timestamp": "2019-08-01 10:37:44"
+    },
+    {
+        "log_id": "400067",
+        "role_grade": "070",
+        "design_id": "21111247",
+        "timestamp": "2019-08-01 10:37:44"
+    },
+    {
+        "log_id": "400034",
+        "role_grade": "070",
+        "design_id": "22110102",
+        "timestamp": "2019-08-01 10:37:44"
+    },
+    {
+        "log_id": "400074",
+        "role_grade": "070",
+        "design_id": "51000522",
+        "timestamp": "2019-08-01 10:37:44"
+    },
+    {
+        "log_id": "400218",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:37:44"
+    },
+    {
+        "log_id": "400338",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:37:44"
+    },
+    {
+        "log_id": "400000",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:37:56"
+    },
+    {
+        "log_id": "400005",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:37:56"
+    },
+    {
+        "log_id": "400122",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:37:56"
+    },
+    {
+        "log_id": "400375",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:37:56"
+    },
+    {
+        "log_id": "400797",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:37:56"
+    },
+    {
+        "log_id": "400800",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:37:56"
+    },
+    {
+        "log_id": "400003",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:37:56"
+    },
+    {
+        "log_id": "400027",
+        "role_grade": "070",
+        "design_id": "16000088",
+        "timestamp": "2019-08-01 10:37:56"
+    },
+    {
+        "log_id": "400028",
+        "role_grade": "070",
+        "design_id": "16101518",
+        "timestamp": "2019-08-01 10:37:56"
+    },
+    {
+        "log_id": "400216",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:37:56"
+    },
+    {
+        "log_id": "400514",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:37:56"
+    },
+    {
+        "log_id": "400576",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:37:56"
+    },
+    {
+        "log_id": "400593",
+        "role_grade": "070",
+        "timestamp": "2019-08-01 10:37:56"
+    }
+]
